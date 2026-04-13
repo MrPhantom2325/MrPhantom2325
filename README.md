@@ -40,7 +40,7 @@ I am passionate about combining **AI, systems design, and practical impact**.
 ---
 
 <p align="center">
-  <img src="https://github.com/MrPhantom2325/MrPhantom2325/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/MrPhantom2325/MrPhantom2325/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ### ✨ Philosophy
